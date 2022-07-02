@@ -1,0 +1,25 @@
+header{
+  font-size: 30px;
+	border: 3px solid #E1EDF7;
+	width: 60%;
+	margin-left: 20%;
+	background-color: #EDF2F7;
+	margin-bottom: 10px;
+	text-align: center;
+}
+address{
+	text-align: center;
+	font-size:13px;
+	font-style: oblique;
+}
+
+footer{
+	text-align: center;
+}
+.box {
+  width: 25%;
+  float: left;
+}
+.skills{
+  display:flow-root;
+}
